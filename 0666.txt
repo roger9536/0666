@@ -1,0 +1,570 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="IT: 7 Gold" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/29cac0a8f5b8b231834e97171c76060d.png" group-title="Italy ➾ LifeStyle",IT: 7 Gold
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299334
+#EXTINF:-1 tvg-id="" tvg-name="IT: 111 TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/1a28cd4aaf23f9982cd9a949e152adeb.png" group-title="Italy",IT: 111 TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/265364
+#EXTINF:-1 tvg-id="" tvg-name="IT: 12 TV Parma" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/d4756f0a7ec39b2f9beb1943cbb9e2a1.png" group-title="Italy ➾ LifeStyle",IT: 12 TV Parma
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279918
+#EXTINF:-1 tvg-id="20mediaset.it" tvg-name="IT: 20 Mediaset" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/58b8cbae5d698fe666a6bda9b8b21e83.png" group-title="Italy ➾ LifeStyle",IT: 20 Mediaset
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/961
+#EXTINF:-1 tvg-id="" tvg-name="IT: 51 Radio TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/327ea218a6e6f811c34ba1c80c98f0a9.png" group-title="Italy ➾ Music",IT: 51 Radio TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/16018
+#EXTINF:-1 tvg-id="" tvg-name="IT: 70 80 Hits" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Italy ➾ Music",IT: 70 80 Hits
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299461
+#EXTINF:-1 tvg-id="" tvg-name="IT: A3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/78b1a2642e63aaeb93b0878358710417.png" group-title="Italy ➾ News",IT: A3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/16016
+#EXTINF:-1 tvg-id="" tvg-name="IT: ACI Sport TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/c44034500f012d8de75ae9ec5aa242a0.png" group-title="Italy ➾ Sports",IT: ACI Sport TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298813
+#EXTINF:-1 tvg-id="" tvg-name="IT: Alma TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/efcd60bee1bdf451f70f50a6489f892c.png" group-title="Italy ➾ LifeStyle",IT: Alma TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/41223
+#EXTINF:-1 tvg-id="" tvg-name="IT: Alto Adige TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/73b685f41f7acfe7753a7c3b64c53063.png" group-title="Italy",IT: Alto Adige TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/18673
+#EXTINF:-1 tvg-id="" tvg-name="IT: Antenna 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/43bf1f1a9db999ba3264bd3663167c18.png" group-title="Italy",IT: Antenna 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279913
+#EXTINF:-1 tvg-id="" tvg-name="IT: Antenna Sicilia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/0c97b2a57cf1423fa7bfc710bd0ccd9e.jpg" group-title="Italy",IT: Antenna Sicilia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/151663
+#EXTINF:-1 tvg-id="" tvg-name="IT: Arancia TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/1792f2f07e57276599054cb2b2994474.jpg" group-title="Italy ➾ Music",IT: Arancia TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279914
+#EXTINF:-1 tvg-id="" tvg-name="IT: Arte Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/07bc20f54aed5d612a0fa057c9177cf1.jpg" group-title="Italy",IT: Arte Network
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/74314
+#EXTINF:-1 tvg-id="" tvg-name="IT: Aurora Arte" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9e3cf99a1a1c5d3313c9bae3dfa347db.png" group-title="Italy",IT: Aurora Arte
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/8160
+#EXTINF:-1 tvg-id="babytv.it" tvg-name="IT: Baby TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4e6fb769f0d5c77677d7913c75377044.png" group-title="Italy ➾ Kids",IT: Baby TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/31824
+#EXTINF:-1 tvg-id="" tvg-name="IT: Bella Radio TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8931e8192db0d2bf199e15d384cc11a1.jpg" group-title="Italy ➾ Music",IT: Bella Radio TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299459
+#EXTINF:-1 tvg-id="" tvg-name="IT: Bellla & Monella TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/ee9a150fc55e351c9125534a421bdcf7.png" group-title="Italy",IT: Bellla & Monella TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279919
+#EXTINF:-1 tvg-id="" tvg-name="IT: bianconeranews" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Italy",IT: bianconeranews
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/12328
+#EXTINF:-1 tvg-id="" tvg-name="IT: Bike" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/694e22fd374b5c45094824abf80013ef.png" group-title="Italy ➾ Sports",IT: Bike
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/22709
+#EXTINF:-1 tvg-id="" tvg-name="IT: Bloomberg TV 4K" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/be814c4e5b85e42629defde0ae040344.png" group-title="Italy ➾ News",IT: Bloomberg TV 4K
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279908
+#EXTINF:-1 tvg-id="boing.it" tvg-name="IT: Boing" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8b0bdcd750142bc54929eeaa30e896e4.jpg" group-title="Italy ➾ Kids",IT: Boing
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/966
+#EXTINF:-1 tvg-id="" tvg-name="IT: Boomerang" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/766e34949d3cb177af2403bab9119438.png" group-title="Italy ➾ Kids",IT: Boomerang
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/9565
+#EXTINF:-1 tvg-id="" tvg-name="IT: Byoblu" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/42dda77e9a872a82e2912c61f44eed13.png" group-title="Italy",IT: Byoblu
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/296110
+#EXTINF:-1 tvg-id="" tvg-name="IT: Caccia e Pesca" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/1dc14d0cea0a661a6963347d771515eb.png" group-title="Italy ➾ Nature",IT: Caccia e Pesca
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299515
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cafe 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/45a1650bfb755c6a8035e0e1a97869fd.jpg" group-title="Italy",IT: Cafe 24
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/18678
+#EXTINF:-1 tvg-id="" tvg-name="IT: Camera dei Deputati" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/091469802e9bd2b72fb980dc9fd7c4cf.png" group-title="Italy",IT: Camera dei Deputati
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279906
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/ab1c86703fd5dce981aacdb634f53169.jpg" group-title="Italy",IT: Canale 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/18773
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="IT: Canale 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/6297c9a866903da2dc2d2c0ade678d10.png" group-title="Italy ➾ LifeStyle",IT: Canale 5
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/902
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/46edd8ed2b24e3224c946208f1a97daf.jpg" group-title="Italy",IT: Canale 7
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/3534
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/30f92f764bee686c779164f3e418175f.jpg" group-title="Italy",IT: Canale 8
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/49029
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale Dieci" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/864dba35d7bf85101ae38f10a7b9af9b.png" group-title="Italy",IT: Canale Dieci
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/3536
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale Europa" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Italy",IT: Canale Europa
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279907
+#EXTINF:-1 tvg-id="" tvg-name="IT: Carina TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/272f8af6907321f721fe2037f2b9611c.png" group-title="Italy",IT: Carina TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/74331
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ae8686643287877d73369cf9257e066a.png" group-title="Italy ➾ Kids",IT: Cartoon Network
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/9567
+#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="IT: Cartoonito" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/592daf9d882f1fcb84bf8c072e9e463d.png" group-title="Italy ➾ Kids",IT: Cartoonito
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/975
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="IT: Cielo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5441716cc011afc120da09a8907874c3.png" group-title="Italy ➾ LifeStyle",IT: Cielo
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/976
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="IT: Cine 34" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2dcc58d9e974c0d059b9e34df257bfd7.png" group-title="Italy ➾ Movie",IT: Cine 34
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/75589
+#EXTINF:-1 tvg-id="" tvg-name="IT: Comedy Central" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/ec40aed4d10ec07993bb75c37e1dfb99.png" group-title="Italy ➾ Movie",IT: Comedy Central
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279262
+#EXTINF:-1 tvg-id="" tvg-name="IT: Company TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/51f59d1bc23d3eff79cbb216a800b0be.jpg" group-title="Italy ➾ Music",IT: Company TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/981
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cremona 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/4fc34aab6f85f1a122e1440f30c2521e.png" group-title="Italy",IT: Cremona 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279945
+#EXTINF:-1 tvg-id="" tvg-name="IT: Crime+ Investigation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/b9afbabcc20007402e12daba3e031a93.png" group-title="Italy ➾ Documentary",IT: Crime+ Investigation
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287401
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cusano Italia TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/5f4abecb29604c28924173500d2e7f27.jpg" group-title="Italy",IT: Cusano Italia TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279922
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/baa66dbafc4be9ec7a5a6a232996a468.jpg" group-title="Italy ➾ Sports",IT: DAZN 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/79220
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/13f7be80a31515955c38a5834584d138.jpg" group-title="Italy ➾ Sports",IT: DAZN 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/39497
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="IT: Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0de1927f10af26a018abb19d1a94ac49.png" group-title="Italy ➾ Documentary",IT: Discovery Channel
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/7868
+#EXTINF:-1 tvg-id="" tvg-name="IT: Discovery HGTV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Italy ➾ LifeStyle",IT: Discovery HGTV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/173565
+#EXTINF:-1 tvg-id="k2.it" tvg-name="IT: Discovery Nove" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f90f273d55d3158ac733391d92e25805.png" group-title="Italy ➾ Documentary",IT: Discovery Nove
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1991
+#EXTINF:-1 tvg-id="" tvg-name="IT: Discovery Science" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/46249e8cd2e38b782f7df654bbf12dcd.png" group-title="Italy ➾ Documentary",IT: Discovery Science
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287758
+#EXTINF:-1 tvg-id="" tvg-name="IT: Disney junior" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/fb50a384f85db6919c67afb48373edb4.png" group-title="Italy ➾ Kids",IT: Disney junior
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1988
+#EXTINF:-1 tvg-id="" tvg-name="IT: Disney+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1121ad5f83689b10c86d1db82a402cf8.png" group-title="Italy ➾ Kids",IT: Disney+
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/50687
+#EXTINF:-1 tvg-id="" tvg-name="IT: Disney+ Film" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/d545beaea4223f15824e24484d9894e6.png" group-title="Italy",IT: Disney+ Film
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279927
+#EXTINF:-1 tvg-id="" tvg-name="IT: Disney+ Nature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b341cdf0d98a2fe1de2fac22cb03efab.png" group-title="Italy",IT: Disney+ Nature
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/169950
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="IT: DMAX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/58eee1d2403900d8ded25fe6e9cf8922.png" group-title="Italy ➾ Documentary",IT: DMAX
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/2006
+#EXTINF:-1 tvg-id="" tvg-name="IT: Elive TV Brescia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/2dc83f7e7e8d86cad9ad186fc9015a07.png" group-title="Italy",IT: Elive TV Brescia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/145884
+#EXTINF:-1 tvg-id="" tvg-name="IT: Entella TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c9fb6d70d72f66b835b38ef1edb57f1f.webp" group-title="Italy",IT: Entella TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279942
+#EXTINF:-1 tvg-id="" tvg-name="IT: Espansione TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/f2e4644e832732a3f7230db3a9818536.png" group-title="Italy",IT: Espansione TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165397
+#EXTINF:-1 tvg-id="" tvg-name="IT: Esperia TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/083095f227e9485119a372d9edbf14de.png" group-title="Italy",IT: Esperia TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/9581
+#EXTINF:-1 tvg-id="" tvg-name="IT: Euro Indie Music Chart TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3a616fe5599c682e27789773db67f2f0.png" group-title="Italy",IT: Euro Indie Music Chart TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/201810
+#EXTINF:-1 tvg-id="" tvg-name="IT: Euro TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Italy",IT: Euro TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287513
+#EXTINF:-1 tvg-id="" tvg-name="IT: euronews" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/7d729980ed05645c50b983f6c5377113.png" group-title="Italy ➾ News",IT: euronews
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/77567
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="IT: EUROSPORT 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/426ce2325be2e503a274c96fc8886fc3.png" group-title="Italy ➾ Sports",IT: EUROSPORT 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/995
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="IT: EUROSPORT 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c98551542cf8982297c36a788a9f188f.png" group-title="Italy ➾ Sports",IT: EUROSPORT 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1040
+#EXTINF:-1 tvg-id="" tvg-name="IT: FashionTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/91102ed57f8a11715c1b40c300ef38a8.png" group-title="Italy ➾ LifeStyle",IT: FashionTV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/85120
+#EXTINF:-1 tvg-id="" tvg-name="IT: FM Italia TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b5d4794e46a4ae775ce2409de7e28714.png" group-title="Italy ➾ Music",IT: FM Italia TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/18685
+#EXTINF:-1 tvg-id="focustv.it" tvg-name="IT: Focus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7c6ce1f47834b2a9e8bfcf6d3778e11c.png" group-title="Italy ➾ Documentary",IT: Focus
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/8163
+#EXTINF:-1 tvg-id="" tvg-name="IT: Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/d20b060bd13ff799658f142d9f8c1db1.png" group-title="Italy ➾ LifeStyle",IT: Food Network
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/173564
+#EXTINF:-1 tvg-id="" tvg-name="IT: Fox" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/b9dd3552cde7f0df2d3b4bdd9d223e6f.png" group-title="Italy ➾ Movie",IT: Fox
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/282054
+#EXTINF:-1 tvg-id="" tvg-name="IT: FOX Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/ace0108bdcd3a1f06574488429f6c29a.png" group-title="Italy ➾ Movie",IT: FOX Comedy
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/266635
+#EXTINF:-1 tvg-id="" tvg-name="IT: Fox Crime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/a378de94a43c97886795c96f84c1a73e.png" group-title="Italy ➾ Movie",IT: Fox Crime
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1002
+#EXTINF:-1 tvg-id="frisbee.it" tvg-name="IT: Frisbee" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/85cf457c27a8043633909e8c38d08527.png" group-title="Italy ➾ Kids",IT: Frisbee
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/2003
+#EXTINF:-1 tvg-id="" tvg-name="IT: Gambero Rosso" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/c14ab5b157415b4db76fce87993db201.png" group-title="Italy ➾ LifeStyle",IT: Gambero Rosso
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264572
+#EXTINF:-1 tvg-id="giallo.it" tvg-name="IT: Giallo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d42ca326b70ef1802b1d848b635b4be.png" group-title="Italy ➾ Movie",IT: Giallo
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/2004
+#EXTINF:-1 tvg-id="" tvg-name="IT: Globus Television" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Italy",IT: Globus Television
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/74312
+#EXTINF:-1 tvg-id="" tvg-name="IT: Gold TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/d8b7f502c73d0dc08fcd6f6809de1751.png" group-title="Italy ➾ Movie",IT: Gold TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/151660
+#EXTINF:-1 tvg-id="" tvg-name="IT: Grande Fratello" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Italy",IT: Grande Fratello
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299837
+#EXTINF:-1 tvg-id="" tvg-name="IT: Granducato" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/59071aa4380789e45f841b192930d2d1.png" group-title="Italy",IT: Granducato
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/151651
+#EXTINF:-1 tvg-id="" tvg-name="IT: History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/26769c5f66a9b1afbc2844bcac465f5e.png" group-title="Italy ➾ Documentary",IT: History
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264522
+#EXTINF:-1 tvg-id="" tvg-name="IT: icaro TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/d07acd1717322e5a62a7c7a6623ea168.png" group-title="Italy",IT: icaro TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/993
+#EXTINF:-1 tvg-id="" tvg-name="IT: Inter TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/1a6dc82ecd83521d041ad308113de84b.png" group-title="Italy",IT: Inter TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1041
+#EXTINF:-1 tvg-id="qvc.it" tvg-name="IT: Iris" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/387f14695de5f0ecaf8c6005c823994a.png" group-title="Italy ➾ LifeStyle",IT: Iris
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/2002
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="IT: Italia 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/30a6b88236766c3780a44176ed19a948.png" group-title="Italy ➾ LifeStyle",IT: Italia 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/986
+#EXTINF:-1 tvg-id="italia2.it" tvg-name="IT: Italia 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/528d20bbde6fde814749c93b54ab0337.jpg" group-title="Italy ➾ LifeStyle",IT: Italia 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/987
+#EXTINF:-1 tvg-id="" tvg-name="IT: Italia 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8bd51ed3d9a015b0b73657aad2d5f3a3.jpg" group-title="Italy",IT: Italia 3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/169480
+#EXTINF:-1 tvg-id="" tvg-name="IT: Italian Fishing TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/b27427949d3b52bad1307f1d919be43d.png" group-title="Italy ➾ Nature",IT: Italian Fishing TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/63265
+#EXTINF:-1 tvg-id="" tvg-name="IT: Iunior TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/83b4308a00560fc20f40945c829d0417.png" group-title="Italy",IT: Iunior TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287518
+#EXTINF:-1 tvg-id="" tvg-name="IT: Juwelo Italia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bd41c5458a0c41492b0a40641b6e55d7.png" group-title="Italy",IT: Juwelo Italia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/285549
+#EXTINF:-1 tvg-id="" tvg-name="IT: K2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/c7cac8a4959f5ad2ee1097c047c94f61.png" group-title="Italy ➾ Kids",IT: K2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/8158
+#EXTINF:-1 tvg-id="" tvg-name="IT: Kiss Kiss" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/9bb2d0b7a9490bdd827224f27eb58cb4.png" group-title="Italy ➾ Music",IT: Kiss Kiss
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/296595
+#EXTINF:-1 tvg-id="" tvg-name="IT: Kiss Kiss Italia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/234f6ab83ec54c766af5fc295cbb9853.png" group-title="Italy",IT: Kiss Kiss Italia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279937
+#EXTINF:-1 tvg-id="" tvg-name="IT: Kiss Kiss Napoli" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/78cd2f628ce6b1d149570074bfecd0a3.png" group-title="Italy",IT: Kiss Kiss Napoli
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/294964
+#EXTINF:-1 tvg-id="la5.it" tvg-name="IT: La 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4669b43b689bee8c86fe5638cb7233ea.png" group-title="Italy ➾ LifeStyle",IT: La 5
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/3541
+#EXTINF:-1 tvg-id="la7.it" tvg-name="IT: La 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2efcd05c61e6ccaf8f5026a8c481e764.png" group-title="Italy ➾ LifeStyle",IT: La 7
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1996
+#EXTINF:-1 tvg-id="la7d.it" tvg-name="IT: La 7 d" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8534616315281497afc3050abcb2bdf3.png" group-title="Italy ➾ LifeStyle",IT: La 7 d
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/988
+#EXTINF:-1 tvg-id="" tvg-name="IT: La C TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/09b504116ebb0a7f6977d658c5f5e675.jpg" group-title="Italy",IT: La C TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/265373
+#EXTINF:-1 tvg-id="" tvg-name="IT: La Nuova TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/b5a991eb2d7e2e55714a446381f39a4e.png" group-title="Italy",IT: La Nuova TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/173590
+#EXTINF:-1 tvg-id="" tvg-name="IT: La Tr3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a8525c1ad198a1db047325380210d8f7.png" group-title="Italy",IT: La Tr3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1006
+#EXTINF:-1 tvg-id="" tvg-name="IT: LaGrande Italia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/59605e8a7bb1818dcf18d98e469f528b.png" group-title="Italy",IT: LaGrande Italia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299525
+#EXTINF:-1 tvg-id="" tvg-name="IT: Lazio TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/6307e3688809b192a509c2f7e913bc86.png" group-title="Italy",IT: Lazio TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/2001
+#EXTINF:-1 tvg-id="" tvg-name="IT: Lira TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/a39aab9869381510684d8ccef7d4d653.jpg" group-title="Italy",IT: Lira TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279938
+#EXTINF:-1 tvg-id="" tvg-name="IT: Lombardia TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/294e6407142795e288a1bed863d71ce8.png" group-title="Italy",IT: Lombardia TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279943
+#EXTINF:-1 tvg-id="" tvg-name="IT: Love FM TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Italy ➾ Music",IT: Love FM TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/75579
+#EXTINF:-1 tvg-id="" tvg-name="IT: M2o" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/88603c72a2ec8904a028fdf31e0402fc.png" group-title="Italy ➾ Music",IT: M2o
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/2511
+#EXTINF:-1 tvg-id="" tvg-name="IT: Maria+Vision Italia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/e08902535a722e718d0bbda6d0369512.png" group-title="Italy",IT: Maria+Vision Italia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158695
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="IT: Mediaset Extra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/32706faa717cc83c7e12f4607d046dc2.png" group-title="Italy ➾ LifeStyle",IT: Mediaset Extra
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/992
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset Italia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/bd0b31b03081b477656e08f4fbb82ea0.png" group-title="Italy",IT: Mediaset Italia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298598
+#EXTINF:-1 tvg-id="" tvg-name="IT: Motortrend" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/7987271234bb216fdf62c1db2e086b41.png" group-title="Italy",IT: Motortrend
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/75151
+#EXTINF:-1 tvg-id="" tvg-name="IT: MS Motor TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/633d5a18cae483ea6626145274f2cb82.png" group-title="Italy",IT: MS Motor TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158715
+#EXTINF:-1 tvg-id="" tvg-name="IT: MTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/c957f9f900c3468fc3497a351c7ac392.png" group-title="Italy",IT: MTV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/63276
+#EXTINF:-1 tvg-id="natgeo.it" tvg-name="IT: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4dcc7772f88e74b3b7f35f49811ec300.png" group-title="Italy ➾ Documentary",IT: NAT GEO
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/2512
+#EXTINF:-1 tvg-id="" tvg-name="IT: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/d5b282a5217e4a6c42bdc7221f5687f6.png" group-title="Italy ➾ Nature",IT: NAT GEO Wild
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/279657
+#EXTINF:-1 tvg-id="" tvg-name="IT: Nick Jr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/a6a4a28d9a8eb7f6231181ac3c9a7932.jpg" group-title="Italy ➾ Kids",IT: Nick Jr
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/3594
+#EXTINF:-1 tvg-id="" tvg-name="IT: OL3 Radio" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/c0b370252566c8eb4295ea719e149aa5.png" group-title="Italy",IT: OL3 Radio
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/296582
+#EXTINF:-1 tvg-id="" tvg-name="IT: Onda Novara TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/9ae8b09c0a5f8d63f4ed26e768268164.png" group-title="Italy",IT: Onda Novara TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287523
+#EXTINF:-1 tvg-id="" tvg-name="IT: Onda TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/e2e03f239915fbcb3812d7995ef11c0f.jpg" group-title="Italy",IT: Onda TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/59560
+#EXTINF:-1 tvg-id="" tvg-name="IT: Orler TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/70747a589de978e6f0121a8ff85376e5.png" group-title="Italy",IT: Orler TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/994
+#EXTINF:-1 tvg-id="" tvg-name="IT: Padre Pio TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5b0d17e481eb070957c9dc00db8a3fbf.png" group-title="Italy",IT: Padre Pio TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/8159
+#EXTINF:-1 tvg-id="" tvg-name="IT: Parole di Vita" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2bcf03b53bd1864e141043dcbb3ab336.png" group-title="Italy",IT: Parole di Vita
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/195033
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM CRIME 24" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Italy",IT: PREMIUM CRIME 24
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/193617
+#EXTINF:-1 tvg-id="" tvg-name="IT: Prima TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/b87f9f358f11550733510b0e4ef33e5b.png" group-title="Italy",IT: Prima TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/265376
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primocanale" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/e1a75842e6101a4d30952e05d2297ac9.png" group-title="Italy",IT: Primocanale
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/18701
+#EXTINF:-1 tvg-id="" tvg-name="IT: QVC Italia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e6505057fe94eed2db938e09cb24c2dc.png" group-title="Italy",IT: QVC Italia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/169922
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio 4 You" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/cca29c34e4c1e97d791fcc7a52421143.png" group-title="Italy ➾ Music",IT: Radio 4 You
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/296585
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio 51 TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/b17db2c3a041846d41ebff242713afb5.png" group-title="Italy ➾ Music",IT: Radio 51 TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287429
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Birikina TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/a1c4c657b2a9b9a6e3161ecdc3415636.png" group-title="Italy ➾ Music",IT: Radio Birikina TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/280024
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Bruno TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/fdcc3dfd6d479e9d678f337597cf36a0.png" group-title="Italy ➾ Music",IT: Radio Bruno TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/80066
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Capital" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9ce9ad50c1a7cafe26995b5c8b2c6e59.png" group-title="Italy ➾ Music",IT: Radio Capital
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/2517
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Delta International" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/56fd5838620864ba9592626237c413f3.png" group-title="Italy ➾ Music",IT: Radio Delta International
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/296102
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Freccia TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5a126a982fec920b0abbeb5dbf18a315.svg" group-title="Italy ➾ Music",IT: Radio Freccia TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158682
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Iglesias" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/2d0dc308cb98630a5c98294ad7f9d06e.png" group-title="Italy ➾ Music",IT: Radio Iglesias
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/280010
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Italia Trend TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/dd9caadfb7b3a56a897c65a16e07c4f8.jpg" group-title="Italy ➾ Music",IT: Radio Italia Trend TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/2518
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio JukeBox TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8a4150b90422559a4548232d15c02abe.webp" group-title="Italy ➾ Music",IT: Radio JukeBox TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/280026
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Lombardia TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/4167d9b023f26a28c9a8cb41b1ed6d3e.png" group-title="Italy ➾ Music",IT: Radio Lombardia TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/280027
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Millennium TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f2e05a4669d71303ff09288059557e6a.png" group-title="Italy ➾ Music",IT: Radio Millennium TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158700
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Number One" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/b206e64b77acb0356ee4e4721c1408f7.svg" group-title="Italy ➾ Music",IT: Radio Number One
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/80067
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Pescara" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3b2a99d3cc6155e60dcc5ad7a9a30147.png" group-title="Italy ➾ Music",IT: Radio Pescara
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/169915
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio PiterPan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/465efda69479e1ebe46a1dc9be401235.png" group-title="Italy ➾ Music",IT: Radio PiterPan TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287533
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Radicale" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/53cd6186b86845893408c64f96948e57.png" group-title="Italy ➾ Music",IT: Radio Radicale
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/151645
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Roma" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8a6ffd40b2e67c456332d70967920a4d.png" group-title="Italy ➾ Music",IT: Radio Roma
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299460
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Studio Delta" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/811204e4e4324dfdbcc11f2609183108.png" group-title="Italy ➾ Music",IT: Radio Studio Delta
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/280023
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Taormina TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/ea098aa54d19803fed28ca5081764497.png" group-title="Italy ➾ Music",IT: Radio Taormina TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/151640
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Tivu Azzurra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/a0bfd5ee771a5dd44eb70bcc7fe31d46.jpg" group-title="Italy ➾ Music",IT: Radio Tivu Azzurra
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/280011
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radiolina" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/a26b4c31c015a596c0728947695b5eba.png" group-title="Italy ➾ Music",IT: Radiolina
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/280009
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radionorba TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9ed2e29d951cc4d0bccbfbfc1a6fc587.png" group-title="Italy ➾ Music",IT: Radionorba TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/8155
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT: Rai 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f24cae011b0a63d9a3c461492121154e.png" group-title="Italy ➾ LifeStyle",IT: Rai 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/898
+#EXTINF:-1 tvg-id="raidue.it" tvg-name="IT: Rai 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6e5e4a72e124c75fb44ed1a7d246639c.png" group-title="Italy ➾ LifeStyle",IT: Rai 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/899
+#EXTINF:-1 tvg-id="raitre.it" tvg-name="IT: Rai 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5fae9e7fda080b3398c229226feb429c.png" group-title="Italy ➾ LifeStyle",IT: Rai 3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1979
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="IT: Rai 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3442a9dd9e0ec6ecb0d03a9ad69e164a.png" group-title="Italy ➾ LifeStyle",IT: Rai 4
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/900
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="IT: Rai 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a8ad07dfa9b160f1d92c00344fbe3a51.png" group-title="Italy ➾ LifeStyle",IT: Rai 5
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/901
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 4K" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/b94396672bb489afcfae3cf87cf775f0.png" group-title="Italy ➾ LifeStyle",IT: Rai 4K
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/290520
+#EXTINF:-1 tvg-id="raigulp.it" tvg-name="IT: Rai Gulp" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ccf258996cb23590191ae1acbb2fac5d.png" group-title="Italy ➾ Kids",IT: Rai Gulp
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/903
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Italia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b50eeede44e992563c681fd3b646ba85.png" group-title="Italy ➾ LifeStyle",IT: Rai Italia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/38715
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="IT: Rai Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4193a37970102d45cfd7630e4ba19f36.png" group-title="Italy ➾ Movie",IT: Rai Movie
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1980
+#EXTINF:-1 tvg-id="rainews.it" tvg-name="IT: Rai News 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/79de3e06aa30221dd3a67dfafd222afc.png" group-title="Italy ➾ News",IT: Rai News 24
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/905
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="IT: Rai Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f11a08219ade7b6d4ca9667f83c4eebd.png" group-title="Italy ➾ Movie",IT: Rai Premium
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/906
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="IT: Rai Scuola" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/10e0e32ae0cc19c66645628fc87dae30.png" group-title="Italy ➾ LifeStyle",IT: Rai Scuola
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1985
+#EXTINF:-1 tvg-id="raisportplus.it" tvg-name="IT: Rai Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/656ac05b7c17f067a65253e268e8dde8.png" group-title="Italy ➾ Sports",IT: Rai Sport
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1042
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="IT: Rai Storia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f03ee80e171d7b5da8955a1c9f775086.png" group-title="Italy ➾ Documentary",IT: Rai Storia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1983
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="IT: Rai Yoyo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0f1a3d86616443587c26cca3f7d0d719.png" group-title="Italy ➾ Kids",IT: Rai Yoyo
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/907
+#EXTINF:-1 tvg-id="" tvg-name="IT: RDS Social TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5f2459af06aa28d88a446536ced5a80a.png" group-title="Italy",IT: RDS Social TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/8172
+#EXTINF:-1 tvg-id="discoveryscience.it" tvg-name="IT: Real Time" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/417c7db5cab7b6e85a04c0aa2b4c8551.png" group-title="Italy ➾ Movie",IT: Real Time
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/977
+#EXTINF:-1 tvg-id="" tvg-name="IT: Reggio TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/9c2a333628ac486ba562573043b07864.jpg" group-title="Italy",IT: Reggio TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/74339
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rei TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/6d8e835a6ffc7c03b7a028a2b9ae451d.jpg" group-title="Italy",IT: Rei TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299514
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rete 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a6aa0488c258bb9faf912b80699559f7.png" group-title="Italy ➾ LifeStyle",IT: Rete 4
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1989
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rete 55" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/013ae97f58eb7e44a733d7026fbafae9.png" group-title="Italy",IT: Rete 55
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287549
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rete Oro" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/43fa85db3fabdad5e9af4a9a33dbf5c2.jpg" group-title="Italy",IT: Rete Oro
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/174217
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rete Sole" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/1e6b750ee9b39a7e564de42740ad9942.jpg" group-title="Italy",IT: Rete Sole
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/151632
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rete TV Italia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5d2fcb27a336b757eff674921f8205ac.png" group-title="Italy",IT: Rete TV Italia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/280014
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rete Veneta" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1cec14e70e3faa2c625f468e5a2f94e3.jpg" group-title="Italy",IT: Rete Veneta
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158721
+#EXTINF:-1 tvg-id="" tvg-name="IT: ReteBiella TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/68d3dc4825108ce8231499ac9818c6cd.jpg" group-title="Italy",IT: ReteBiella TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/908
+#EXTINF:-1 tvg-id="" tvg-name="IT: Retemia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/397557c575f595b9fcd537f2ea0b10b0.png" group-title="Italy",IT: Retemia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287551
+#EXTINF:-1 tvg-id="" tvg-name="IT: RMC 101" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/e7a61fa28c955d2348483fe7a866302b.png" group-title="Italy",IT: RMC 101
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/280005
+#EXTINF:-1 tvg-id="" tvg-name="IT: RSI La 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/45d52e52c9ec934b748c273f48bc51b6.svg" group-title="Italy ➾ LifeStyle",IT: RSI La 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298482
+#EXTINF:-1 tvg-id="" tvg-name="IT: RSI LA 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/241d12a04ecf9cccc8ae106d1e1c0221.svg" group-title="Italy ➾ LifeStyle",IT: RSI LA 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1992
+#EXTINF:-1 tvg-id="" tvg-name="IT: RTC Telecalabria" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5923492172c287a805d28e4a6e6f0a3a.png" group-title="Italy",IT: RTC Telecalabria
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/74335
+#EXTINF:-1 tvg-id="rtl1025tv.it" tvg-name="IT: RTL 102.5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0dd674ed49a68e9b078bb6022e42b980.png" group-title="Italy ➾ Music",IT: RTL 102.5
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/42795
+#EXTINF:-1 tvg-id="" tvg-name="IT: RTP (rete televisiva)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5086031c9c4d84456e4a7e00e4cbba96.png" group-title="Italy",IT: RTP (rete televisiva)
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/169908
+#EXTINF:-1 tvg-id="" tvg-name="IT: RTR 99 TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/dfd66dfba2e3278308a6f05f1735eb0e.png" group-title="Italy",IT: RTR 99 TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/265382
+#EXTINF:-1 tvg-id="" tvg-name="IT: RTTR" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/d6c11d9d37cf783f41d5e4fd57648fab.png" group-title="Italy",IT: RTTR
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264575
+#EXTINF:-1 tvg-id="" tvg-name="IT: RTV Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/21392a7fea3217a159aff86d98651770.png" group-title="Italy ➾ Sports",IT: RTV Sport
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/174221
+#EXTINF:-1 tvg-id="" tvg-name="IT: San Marino RTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/d551d5a3bba1d5c7e231a9316314e1d8.png" group-title="Italy",IT: San Marino RTV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/56783
+#EXTINF:-1 tvg-id="" tvg-name="IT: Senato TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/91e28bfb485c3178c79bafb4097ff2cc.png" group-title="Italy",IT: Senato TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/55221
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sicilia TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Italy",IT: Sicilia TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299505
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Arte" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/08cce193dde64df707be7dad51c20c1d.jpg" group-title="Italy ➾ LifeStyle",IT: Sky Arte
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/290472
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Atlantic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/2598c9a1526d993bbd08efc06293fe29.png" group-title="Italy ➾ Movie",IT: Sky Atlantic
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/9507
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="IT: Sky Cinema Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/15d829a959e1cd35b7dc66bb58b78585.png" group-title="Italy ➾ Movie",IT: Sky Cinema Action
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/913
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Collection" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/232a48be01ef5eced635407726e438cc.png" group-title="Italy ➾ Movie",IT: Sky Cinema Collection
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/9473
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/b65c25e9ad478d3df596f432ba726e7e.png" group-title="Italy ➾ Movie",IT: Sky Cinema Comedy
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/914
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/4a30df9a5d619d8cab774b0c4a4147e9.png" group-title="Italy ➾ Movie",IT: Sky Cinema Drama
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/9490
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Due" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/78117132cdba8f1a06b4a41ff21fc5ca.png" group-title="Italy ➾ Movie",IT: Sky Cinema Due
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/998
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6f51d0a63c6d590b995a2fd55f528917.png" group-title="Italy ➾ Movie",IT: Sky Cinema Family
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/916
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Romance" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dc079b32df0abb07f3643ccb7baeff57.png" group-title="Italy ➾ Movie",IT: Sky Cinema Romance
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/917
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Suspense" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/f5e05d0aac67b254e77dd4db91c9a64a.png" group-title="Italy ➾ Movie",IT: Sky Cinema Suspense
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/9486
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Uno" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/a8272581d05bb3e69b1f857868850f68.png" group-title="Italy ➾ Movie",IT: Sky Cinema Uno
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/282264
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Investigation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/4122f0046be963ed16f9f90436cd3021.png" group-title="Italy ➾ Movie",IT: Sky Investigation
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/280307
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/4112e77a753c57a110300639a7668aac.png" group-title="Italy ➾ Movie",IT: Sky Primafila 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/7895
+#EXTINF:-1 tvg-id="primafila10.it" tvg-name="IT: Sky Primafila 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/de77b233726cf1fe2cb22fbc4cc0a265.png" group-title="Italy ➾ Movie",IT: Sky Primafila 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/2017
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c9b40627822bd696b6068a1cf1fac5e1.png" group-title="Italy ➾ Movie",IT: Sky Primafila 3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/83439
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/987ef562f0be70189791d43a11b0bb0b.png" group-title="Italy ➾ Movie",IT: Sky Primafila 4
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/932
+#EXTINF:-1 tvg-id="primafila2.it" tvg-name="IT: Sky Primafila 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1f99abfea54a551e0d39726a2b2f39d1.png" group-title="Italy ➾ Movie",IT: Sky Primafila 5
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/933
+#EXTINF:-1 tvg-id="primafila5.it" tvg-name="IT: Sky Primafila 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/22ed7acae48b24e90f542d0db510f7e5.png" group-title="Italy ➾ Movie",IT: Sky Primafila 6
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/2013
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/91ebb351593da86ad84539cbe07d7b12.png" group-title="Italy ➾ Movie",IT: Sky Primafila 7
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/937
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/22fec3fab5963dd21e6b6fa1964dad2f.png" group-title="Italy ➾ Movie",IT: Sky Primafila 8
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/938
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9cc59bd08636376c1dff5d266d7d78c8.png" group-title="Italy ➾ Movie",IT: Sky Primafila 9
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/2016
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/24b6324c3989f35d6f05c126fcc7fdcc.png" group-title="Italy ➾ Sports",IT: Sky Sport 24
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/2535
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Arena" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ead553af854c718ab5dd049c915379b1.png" group-title="Italy ➾ Music",IT: Sky Sport Arena
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/2541
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/24daa976b558fb05e4e7d3896a4933c4.png" group-title="Italy ➾ Sports",IT: Sky Sport Calcio
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/84505
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport F1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/275e92bab2c838ab3dfc18abf3bf2e48.png" group-title="Italy ➾ Sports",IT: Sky Sport F1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/2542
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Moto GP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/315342075960cced608a1efca076d775.png" group-title="Italy ➾ Sports",IT: Sky Sport Moto GP
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/9880
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3f7f2cd64d280944ee2f73aae9520c43.png" group-title="Italy ➾ Sports",IT: Sky Sport NBA
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1047
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Uno" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/b74c3e05bb91e8b110f53c1916902b0e.png" group-title="Italy ➾ Sports",IT: Sky Sport Uno
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/278706
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky TG 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/981edc25783c8ff0d72f13ee496b21f4.png" group-title="Italy ➾ News",IT: Sky TG 24
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/283205
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Uno" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/e5888667cba9ec455a21c93642d78e4b.png" group-title="Italy ➾ LifeStyle",IT: Sky Uno
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/91704
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sportitalia Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/36efad06b3949a5a8ec2debd35c9293c.png" group-title="Italy ➾ Sports",IT: Sportitalia Plus
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1008
+#EXTINF:-1 tvg-id="" tvg-name="IT: Stereo 5 TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/6de87bb2102074b76acd7075ed5b6d7b.png" group-title="Italy ➾ Music",IT: Stereo 5 TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/285548
+#EXTINF:-1 tvg-id="" tvg-name="IT: Super J" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/df8c9b91f766c02d280797e6d5c0b42c.png" group-title="Italy",IT: Super J
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/285547
+#EXTINF:-1 tvg-id="" tvg-name="IT: Super TV Aristanis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/a02dd986c6537f72d01dd02bbc6df3ee.png" group-title="Italy",IT: Super TV Aristanis
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/297041
+#EXTINF:-1 tvg-id="" tvg-name="IT: Super TV Brescia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/438646dc3acfb45d578d9a0563e93166.jpg" group-title="Italy",IT: Super TV Brescia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1012
+#EXTINF:-1 tvg-id="" tvg-name="IT: Super!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/ff1deb36585128d6531bca0da373f3cf.png" group-title="Italy ➾ Kids",IT: Super!
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/297042
+#EXTINF:-1 tvg-id="" tvg-name="IT: SuperSix Lombardia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/ce61bf4c9f0c92afee284f8a31406ef7.webp" group-title="Italy",IT: SuperSix Lombardia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287559
+#EXTINF:-1 tvg-id="" tvg-name="IT: TCI" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/19a6604d99ebfbac43aa256fb9348fc9.png" group-title="Italy",IT: TCI
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158723
+#EXTINF:-1 tvg-id="" tvg-name="IT: Tele Abruzzo" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Italy",IT: Tele Abruzzo
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299751
+#EXTINF:-1 tvg-id="" tvg-name="IT: Tele Chiara" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/cd72d625b3ff8cd571cbcea1c59b93ef.png" group-title="Italy",IT: Tele Chiara
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1014
+#EXTINF:-1 tvg-id="" tvg-name="IT: Tele Liguria Sud" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8d17ae1af3065e81b5a85b4171470aae.png" group-title="Italy",IT: Tele Liguria Sud
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/151647
+#EXTINF:-1 tvg-id="" tvg-name="IT: Tele Mia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/5d32dea18f87ffe6c0aba3f60bb50a77.png" group-title="Italy",IT: Tele Mia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/55227
+#EXTINF:-1 tvg-id="" tvg-name="IT: Tele MonteNeve" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/4d2edca98518eb8c4c341fece667bf13.png" group-title="Italy",IT: Tele MonteNeve
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/90984
+#EXTINF:-1 tvg-id="" tvg-name="IT: Tele Pavia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/74b5dd0d3283ef4a497cfce5a8aa7b62.png" group-title="Italy",IT: Tele Pavia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/296594
+#EXTINF:-1 tvg-id="" tvg-name="IT: Tele Pegaso Catania" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/688eb8b475aa97b4bf50e33f1835c59e.png" group-title="Italy",IT: Tele Pegaso Catania
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287571
+#EXTINF:-1 tvg-id="" tvg-name="IT: Tele Radio Sciacca" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/e017ce8aad32baa6d3c7c5f793e03529.png" group-title="Italy",IT: Tele Radio Sciacca
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/59617
+#EXTINF:-1 tvg-id="" tvg-name="IT: Tele TusciaSabina 2000" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/e93d9c0d23a01394c442af68880e2079.jpg" group-title="Italy",IT: Tele TusciaSabina 2000
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/265397
+#EXTINF:-1 tvg-id="" tvg-name="IT: TeleA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/0d9db88a6152c815f035f45a9ade7a6e.png" group-title="Italy",IT: TeleA TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/267475
+#EXTINF:-1 tvg-id="" tvg-name="IT: TeleArena" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/f31ed7d182e464fde344c7bd67deeba8.png" group-title="Italy",IT: TeleArena
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/18727
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telearte" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5bbb9c7e564505c6fa3232817eecf55e.png" group-title="Italy",IT: Telearte
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158685
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telebari" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/9db6a58f4d160be351807ab1ec3e8dca.png" group-title="Italy",IT: Telebari
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/74351
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telebelluno" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/1a9d303db536863121099a63bc0cd6e9.png" group-title="Italy",IT: Telebelluno
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/285550
+#EXTINF:-1 tvg-id="" tvg-name="IT: TeleBoario" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/c5f6d0b53867f6977ccbc834e4f7f082.png" group-title="Italy",IT: TeleBoario
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1013
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telecitta" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/e335020d25fc0f412291d28a756b6ffd.png" group-title="Italy",IT: Telecitta
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/260366
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telecolor" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c077ba622fcd0a235e6a02c405c95164.png" group-title="Italy",IT: Telecolor
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158727
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telefoggia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/0e1cafe03d4a8829b18fae2090065d83.png" group-title="Italy",IT: Telefoggia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/74341
+#EXTINF:-1 tvg-id="" tvg-name="IT: TeleMantova" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/f8ab92c77e1a01975c1059b42d0e08fc.png" group-title="Italy",IT: TeleMantova
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/55225
+#EXTINF:-1 tvg-id="" tvg-name="IT: TeleMistretta" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/0053d5d567a9dc9c632fd6ee461171ab.png" group-title="Italy",IT: TeleMistretta
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299462
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telemolise" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/78ec117cd04b9f742484104f6a9055b7.jpg" group-title="Italy",IT: Telemolise
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287585
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telenord" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7d6afea021a4b5be6f3976109cb54988.png" group-title="Italy",IT: Telenord
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158728
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telenordest" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8e6e3b1c0fedc593f88afac2c2c3d8b2.png" group-title="Italy",IT: Telenordest
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/201748
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telepace 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/335246d05893a37652f32f2bfec976df.png" group-title="Italy",IT: Telepace 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158687
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telepace 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1e3ada624d96eeedea8e3a57209e3336.png" group-title="Italy",IT: Telepace 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158708
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telepace 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/2a82328c309bd4c914681b42688030b6.png" group-title="Italy",IT: Telepace 3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158729
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telepace 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/823b7f9811dd6b48e70e1a32d82254aa.png" group-title="Italy",IT: Telepace 4
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1022
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telepace Trento (History Lab)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/0d18cd6419fed2190af4a96f12d97eed.svg" group-title="Italy",IT: Telepace Trento (History Lab)
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299246
+#EXTINF:-1 tvg-id="" tvg-name="IT: TeleQuattro" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/585ba883817c9537d3e73bcba13b8db7.jpg" group-title="Italy",IT: TeleQuattro
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/265394
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telerama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/2c19efc2e8ee5f446670b0f88cde8f3f.png" group-title="Italy",IT: Telerama
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/265395
+#EXTINF:-1 tvg-id="" tvg-name="IT: Teleromagna" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/0031530a006e01b3863dabf62c1ae25f.svg" group-title="Italy",IT: Teleromagna
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/59618
+#EXTINF:-1 tvg-id="" tvg-name="IT: TeleSondrio News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/f5bac8027cef889ac29a1fd8b1ba088f.png" group-title="Italy",IT: TeleSondrio News
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/169918
+#EXTINF:-1 tvg-id="" tvg-name="IT: Teletricolore" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/d32365ed8ce6723e4e1e5890094da2aa.png" group-title="Italy",IT: Teletricolore
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/74343
+#EXTINF:-1 tvg-id="" tvg-name="IT: Teletubbies" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Italy",IT: Teletubbies
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/300613
+#EXTINF:-1 tvg-id="" tvg-name="IT: Teletutto" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/36f105309f106acdf9df66c24fe586c8.png" group-title="Italy",IT: Teletutto
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/296590
+#EXTINF:-1 tvg-id="" tvg-name="IT: TeleVenezia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/68eb04636c0d3b1ca9cbd46dcefe923a.png" group-title="Italy",IT: TeleVenezia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/59615
+#EXTINF:-1 tvg-id="" tvg-name="IT: TeleVideo Agrigento" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/19b4b42ab9d14ea030702c3382f2a6f5.jpeg" group-title="Italy",IT: TeleVideo Agrigento
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/18779
+#EXTINF:-1 tvg-id="" tvg-name="IT: Tennis Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c28c7e4580a3271cced9e317d3fa4733.png" group-title="Italy ➾ Sports",IT: Tennis Channel
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1052
+#EXTINF:-1 tvg-id="" tvg-name="IT: TG Norba 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7a3eee49813b296ce7203fb7d6b016dd.png" group-title="Italy ➾ News",IT: TG Norba 24
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1029
+#EXTINF:-1 tvg-id="" tvg-name="IT: TGCom 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/256493b71391b5d91a9d6cee70f99b64.png" group-title="Italy ➾ Sports",IT: TGCom 24
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1007
+#EXTINF:-1 tvg-id="" tvg-name="IT: Top Crime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/f3a3fead3780b0d74f8b9dc100d157bb.png" group-title="Italy ➾ LifeStyle",IT: Top Crime
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1997
+#EXTINF:-1 tvg-id="" tvg-name="IT: Trentino TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/ea35931cbffc43af9ee4e790a2c6eace.png" group-title="Italy",IT: Trentino TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/84734
+#EXTINF:-1 tvg-id="" tvg-name="IT: TRG Media" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/ba797397048dcba9ca78d068bd7a662d.jpg" group-title="Italy ➾ News",IT: TRG Media
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/276011
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d800bb50d213530b5e7ce063574ea004.png" group-title="Italy ➾ LifeStyle",IT: TV 8
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/50463
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV 2000" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/68ab19481c46e8f6fd1f241849640e55.png" group-title="Italy ➾ LifeStyle",IT: TV 2000
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1036
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV Qui" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3310d979c7f488bca543028779452a90.jpg" group-title="Italy",IT: TV Qui
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/75584
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV Yes" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6133dbd5c5766f1a92d0e622d2bfb99b.png" group-title="Italy",IT: TV Yes
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/276009
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV7 News" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Italy",IT: TV7 News
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/265402
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV7 Triveneta" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/a897b25bd21e9c60b6229b9146dd445b.png" group-title="Italy",IT: TV7 Triveneta
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264577
+#EXTINF:-1 tvg-id="" tvg-name="IT: TVA Vicenza" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d0be56db3d71a46da80d17d4df820089.png" group-title="Italy",IT: TVA Vicenza
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/1032
+#EXTINF:-1 tvg-id="" tvg-name="IT: TVL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/6a287c94fbe0f10b00f90047ce64a5d2.png" group-title="Italy",IT: TVL
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287569
+#EXTINF:-1 tvg-id="" tvg-name="IT: Umbria TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/b3d34349f0730a22daf478cf2a07686f.png" group-title="Italy",IT: Umbria TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/55229
+#EXTINF:-1 tvg-id="" tvg-name="IT: Uninettuno University TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/a3e2f7d1d359767cf1a4945ca72e9c99.png" group-title="Italy",IT: Uninettuno University TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/904
+#EXTINF:-1 tvg-id="" tvg-name="IT: VCO Azzurra TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/5d206093f5a42ab701680287467706a1.png" group-title="Italy",IT: VCO Azzurra TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/151652
+#EXTINF:-1 tvg-id="" tvg-name="IT: Vera TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5a8ee20890b7040c4de210df9226cc99.png" group-title="Italy",IT: Vera TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/74328
+#EXTINF:-1 tvg-id="" tvg-name="IT: VH1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e7362a9bac58a75df5a71dae6447c4b0.png" group-title="Italy ➾ Music",IT: VH1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/8152
+#EXTINF:-1 tvg-id="" tvg-name="IT: Video Novara" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/9cb4d315418490993a9df7d2d201f124.png" group-title="Italy",IT: Video Novara
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/296591
+#EXTINF:-1 tvg-id="" tvg-name="IT: Videolina" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/fcb2436f8ad6dd747a98afa1ef679795.png" group-title="Italy",IT: Videolina
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/260367
+#EXTINF:-1 tvg-id="" tvg-name="IT: Videostar TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5a109ae4585418eff566acad14c3c936.png" group-title="Italy",IT: Videostar TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/18765
+#EXTINF:-1 tvg-id="" tvg-name="IT: VideoTolentino" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/02a705e9a6716b14b07da7d8d5e3b355.png" group-title="Italy",IT: VideoTolentino
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/173567
+#EXTINF:-1 tvg-id="" tvg-name="IT: Vuemme" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/44ecf40c3cfe2636e48cceddb4a3a4d9.jpg" group-title="Italy",IT: Vuemme
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287594
+#EXTINF:-1 tvg-id="" tvg-name="IT: Zerouno TV Music" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/b4f1cc2f91fc94ea6cffece9fd13c5ad.png" group-title="Italy ➾ Music",IT: Zerouno TV Music
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/265410
+#EXTINF:-1 tvg-id="" tvg-name="IT: Zerouno TV News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/ad86e256151d0ae20848cea9242058d6.png" group-title="Italy ➾ News",IT: Zerouno TV News
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299463
+
